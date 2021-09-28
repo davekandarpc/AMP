@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'OpenSans-Regular';
+  src: local('OpenSans-Regular'), url(/fonts/OpenSans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'OpenSans-SemiBold';
+  src: local('OpenSans-SemiBold'), url(/fonts/OpenSans-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'OpenSans-Light';
+  src: local('OpenSans-Light'), url(/fonts/OpenSans-Light.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'BennetTextOne';
+  src: url('BennetTextOne-Bold.eot');
+  src: url('/fonts/BennetTextOne-Bold.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/BennetTextOne-Bold.woff2') format('woff2'),
+  url('/fonts/BennetTextOne-Bold.woff') format('woff'),
+  url('/fonts/BennetTextOne-Bold.ttf') format('truetype'),
+  url('/fonts/BennetTextOne-Bold.svg#BennetTextOne-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BennetTextOne';
+  src: url('/fonts/BennetTextOne-SemiBold.eot');
+  src: url('/fonts/BennetTextOne-SemiBold.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/BennetTextOne-SemiBold.woff2') format('woff2'),
+  url('/fonts/BennetTextOne-SemiBold.woff') format('woff'),
+  url('/fonts/BennetTextOne-SemiBold.ttf') format('truetype'),
+  url('/fonts/BennetTextOne-SemiBold.svg#BennetTextOne-SemiBold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
